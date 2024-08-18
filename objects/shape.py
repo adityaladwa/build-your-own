@@ -1,5 +1,6 @@
 import math
 
+
 class Shape:
     def __init__(self, name):
         self.name = name
@@ -9,6 +10,9 @@ class Shape:
 
     def area(self):
         raise NotImplementedError("area")
+
+    def density(self, weight):
+        return weight / self.area()
 
 
 class Square(Shape):
