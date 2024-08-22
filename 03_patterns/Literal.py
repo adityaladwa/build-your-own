@@ -1,7 +1,7 @@
 from Match import Match
 
 
-class Lit(Match):
+class Literal(Match):
     def __init__(self, chars, rest=None):
         super().__init__(rest)
         self.chars = chars
