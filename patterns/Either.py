@@ -1,4 +1,4 @@
-from Match import Match
+from patterns.Match import Match
 
 
 class Either(Match):
