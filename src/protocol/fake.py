@@ -1,6 +1,3 @@
-from patterns.Literal import Literal
-
-
 class Fake:
     def __init__(self, func=None, value=None):
         self.calls = []

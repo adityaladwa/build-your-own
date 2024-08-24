@@ -1,10 +1,10 @@
 import unittest
-from Any import Any
-from Literal import Literal
-from Either import Either
+
+from match import Any, Literal, Either
 
 
 class TestPatterns(unittest.TestCase):
+
     def test_any_matches_empty(self):
         # /*/ matches ""
         assert Any().match("")

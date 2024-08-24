@@ -1,7 +1,4 @@
-from patterns.Any import Any
-from patterns.Either import Either
-from patterns.Literal import Literal
-from patterns.Match import Null
+from src.pattern.match import Null, Any, Either, Literal
 
 
 class Parser:

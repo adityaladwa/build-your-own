@@ -1,9 +1,8 @@
 import unittest
 
-from Tokeniser import Tokeniser
-from parser.Parser import Parser
-from patterns.Either import Either
-from patterns.Literal import Literal
+from tokeniser import Tokeniser
+from parser import Parser
+from src.pattern.match import Either, Literal
 
 
 class ParserPackageTests(unittest.TestCase):
