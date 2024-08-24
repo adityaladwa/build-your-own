@@ -1,0 +1,24 @@
+[
+  "seq",
+  [
+    "set",
+    "alpha",
+    4
+  ],
+  [
+    "set",
+    "beta",
+    4
+  ],
+  [
+    "add",
+    [
+      "get",
+      "alpha"
+    ],
+    [
+      "get",
+      "beta"
+    ]
+  ]
+]

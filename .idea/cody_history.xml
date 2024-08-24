@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistory">
+    <accountData>
+      <list>
+        <AccountData>
+          <accountId value="VXNlcjo3MjgwMQ==" />
+          <chats>
+            <list>
+              <chat>
+                <internalId value="30eeebed-dd8f-4709-8c29-7e7362d8878c" />
+                <llm>
+                  <llm>
+                    <model value="ollama/codellama:7b-code" />
+                    <provider value="Ollama" />
+                    <tags>
+                      <list>
+                        <option value="local" />
+                        <option value="ollama" />
+                        <option value="experimental" />
+                      </list>
+                    </tags>
+                    <title value="codellama:7b code" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+            </list>
+          </chats>
+          <defaultLlm>
+            <llm>
+              <model value="ollama/codellama:7b-code" />
+              <provider value="Ollama" />
+              <tags>
+                <list>
+                  <option value="local" />
+                  <option value="ollama" />
+                  <option value="experimental" />
+                </list>
+              </tags>
+              <title value="codellama:7b code" />
+              <usage>
+                <list>
+                  <option value="chat" />
+                  <option value="edit" />
+                </list>
+              </usage>
+            </llm>
+          </defaultLlm>
+        </AccountData>
+      </list>
+    </accountData>
+  </component>
+</project>
