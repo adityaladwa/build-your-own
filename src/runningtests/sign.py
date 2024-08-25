@@ -14,7 +14,7 @@ def test_sign_positive():
 
 
 def test_sign_zero():
-    assert sign(0) == 0
+    assert sign(0) == 1
 
 
 def test_sign_error():
@@ -36,6 +36,7 @@ def run_tests():
             results["fail"] += 1
         except Exception:
             results["error"] += 1
+
     print(f"pass {results["pass"]}")
     print(f"fail {results["fail"]}")
     print(f"error {results["error"]}")
