@@ -30,6 +30,190 @@
                   </llm>
                 </llm>
               </chat>
+              <chat>
+                <internalId value="df289dc5-4f70-4d58-8bdf-a8be6adc43c5" />
+                <llm>
+                  <llm>
+                    <model value="ollama/codellama:7b-code" />
+                    <provider value="Ollama" />
+                    <tags>
+                      <list>
+                        <option value="local" />
+                        <option value="ollama" />
+                        <option value="experimental" />
+                      </list>
+                    </tags>
+                    <title value="codellama:7b code" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="d10a36c8-2bf3-45d5-b961-ddc90a6b19db" />
+                <llm>
+                  <llm>
+                    <model value="ollama/codellama:7b-code" />
+                    <provider value="Ollama" />
+                    <tags>
+                      <list>
+                        <option value="local" />
+                        <option value="ollama" />
+                        <option value="experimental" />
+                      </list>
+                    </tags>
+                    <title value="codellama:7b code" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="31fa62f6-486b-4618-b1a0-93bf72bca453" />
+                <llm>
+                  <llm>
+                    <model value="ollama/codellama:7b-code" />
+                    <provider value="Ollama" />
+                    <tags>
+                      <list>
+                        <option value="local" />
+                        <option value="ollama" />
+                        <option value="experimental" />
+                      </list>
+                    </tags>
+                    <title value="codellama:7b code" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="5367790f-eb17-4436-95cf-1a45a7dc8794" />
+                <llm>
+                  <llm>
+                    <model value="ollama/codellama:7b-code" />
+                    <provider value="Ollama" />
+                    <tags>
+                      <list>
+                        <option value="local" />
+                        <option value="ollama" />
+                        <option value="experimental" />
+                      </list>
+                    </tags>
+                    <title value="codellama:7b code" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="039785b8-f4a1-47c4-bbdc-9ad8deb6e5bf" />
+                <llm>
+                  <llm>
+                    <model value="ollama/codellama:7b-code" />
+                    <provider value="Ollama" />
+                    <tags>
+                      <list>
+                        <option value="local" />
+                        <option value="ollama" />
+                        <option value="experimental" />
+                      </list>
+                    </tags>
+                    <title value="codellama:7b code" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="248e6ca1-b2a2-450e-80bf-61e25e4b1e70" />
+                <llm>
+                  <llm>
+                    <model value="ollama/codellama:7b-code" />
+                    <provider value="Ollama" />
+                    <tags>
+                      <list>
+                        <option value="local" />
+                        <option value="ollama" />
+                        <option value="experimental" />
+                      </list>
+                    </tags>
+                    <title value="codellama:7b code" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="606dbd7f-3e31-4e20-98e5-3328c730a6ba" />
+                <llm>
+                  <llm>
+                    <model value="ollama/codellama:7b-code" />
+                    <provider value="Ollama" />
+                    <tags>
+                      <list>
+                        <option value="local" />
+                        <option value="ollama" />
+                        <option value="experimental" />
+                      </list>
+                    </tags>
+                    <title value="codellama:7b code" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="76ad8419-749e-4976-b3b7-c2bd7c202839" />
+                <llm>
+                  <llm>
+                    <model value="ollama/codellama:7b-code" />
+                    <provider value="Ollama" />
+                    <tags>
+                      <list>
+                        <option value="local" />
+                        <option value="ollama" />
+                        <option value="experimental" />
+                      </list>
+                    </tags>
+                    <title value="codellama:7b code" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
             </list>
           </chats>
           <defaultLlm>
