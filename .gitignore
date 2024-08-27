@@ -1,4 +1,5 @@
 .DS_Store
 .coverage
+.idea/cody_history.xml
 __pycache__
 .venv
