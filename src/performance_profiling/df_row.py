@@ -1,5 +1,5 @@
-from src.performance_profiling.dataframe_base import DataFrame
-from src.performance_profiling.util import dict_match
+from dataframe_base import DataFrame
+from util import dict_match
 
 
 class DfRow(DataFrame):
